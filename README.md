@@ -7,6 +7,12 @@ This provides supplemental information the poster entitled Secondary seed disper
 2. Presenting Author's working group https://www.econetlab.net/
 3. Project website https://www.reassembly.de/
 
+## **Videos**
+Videos Generated from several years of field work :).
+- Dung Removal
+- Dung beetles
+- Ants with seeds from dung
+
 ## **Detailed Acknowledgments**
 - Funding:
 This work was supported by the Deutsche Forschungsgemeinschaft (DFG) funded Research Unit REASSEMBLY (Research Unit FOR 5207 REASSEMBLY (subproject BL 960/13).
@@ -15,6 +21,3 @@ We thank the Fundación Jocotoco (particularly Martin Schaefer) and Fundación T
 We acknowledge the Ministerio del Ambiente, Agua y Transición Ecológica for granting collection and research permits under the Genetic Resources Access Agreement number “MAATE-DBI-CM-2021-0187”.
 - Project coordination:
 We thank Nico Blüthgen, Martin Schaefer, David Donoso, María-José Endara, Juan Guevara, Constance Tremlett, Sebastián Escobar, Julieta Muñoz, and Karin Römer for project coordination and administration.
-
-
-## **Videos**
