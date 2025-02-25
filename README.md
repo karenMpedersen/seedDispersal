@@ -9,9 +9,9 @@ This provides supplemental information the poster entitled Secondary seed disper
 
 ## **Videos**
 Videos Generated from several years of field work :).
-- Dung Removal
-- Dung beetles
-- Ants with seeds from dung
+- Dung Removal https://drive.google.com/file/d/1nhCfwBWr7E6JBDugVmA-pZnVi1rBVGFA/view?usp=sharing
+- Dung beetles https://drive.google.com/file/d/1r49EfrmMI4Tv69DVE4u7sYutzbgctsgN/view?usp=sharing
+- Ants with seeds from dung https://photos.app.goo.gl/nyfRtML7rGveibBJA
 
 ## **Detailed Acknowledgments**
 - Funding:
